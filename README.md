@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning R and Python ...
 - 💞️ I’m looking to collaborate on anything relating to Data Analysis and getting the most insight into datasets ...
 - 📫 How to reach me ... https://www.linkedin.com/in/kenroy-adams-985070178/
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: ...
+
 
 <!---
 KenroyAdams/KenroyAdams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
